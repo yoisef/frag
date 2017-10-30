@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flexibale</string>
+    <string-array name="items">
+        <item> press 1</item>
+        <item> press 2</item>
+        <item> press 3</item>
+        <item> press 4</item>
+        <item> press 5</item>
+        <item> press 6</item>
+        <item> press 7</item>
+
+    </string-array>
+    <string-array name="description">
+        <item> hi hi im youssef</item>
+        <item> hi hi im saed</item>
+        <item> hi hi im mhmd</item>
+        <item> hi hi im esm3el</item>
+        <item> hi hi im hussen</item>
+        <item> hi hi im ze elbezo</item>
+        <item> hi hi im salmesalm</item>
+
+    </string-array>
+</resources>
